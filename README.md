@@ -60,4 +60,3 @@
 - **Cache-first strategy** for instant loading
 
 ---
-> Add screenshots here after taking them. You can drag-and-drop images when editing on GitHub.
