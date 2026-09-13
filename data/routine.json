@@ -6,10 +6,10 @@
   "shift": "Shift-1",
   "session": "Summer 2026",
   "exams": [
-    { "date": "2026-09-16", "day": "Wednesday", "course_code": "EEE 1131", "course_title": "Basic Electrical Circuits", "time": "10:00 AM - 11:30 AM" },
-    { "date": "2026-09-20", "day": "Sunday",    "course_code": "CHE 1161", "course_title": "Chemistry", "time": "10:00 AM - 11:30 AM" },
-    { "date": "2026-09-22", "day": "Tuesday",   "course_code": "ENG 0002", "course_title": "English Fundamentals", "time": "10:00 AM - 11:30 AM" },
-    { "date": "2026-09-24", "day": "Thursday",  "course_code": "PHY 1151", "course_title": "Basic Physics", "time": "10:00 AM - 11:30 AM" },
-    { "date": "2026-09-28", "day": "Monday",    "course_code": "MAT 1141", "course_title": "Differential and Integral Calculus", "time": "10:00 AM - 11:30 AM" }
+    { "date": "2026-09-16", "day": "Wednesday", "course_code": "EEE 1131", "course_title": "Basic Electrical Circuits", "time": "10:20 AM - 11:50 AM" },
+    { "date": "2026-09-20", "day": "Sunday",    "course_code": "CHE 1161", "course_title": "Chemistry", "time": "10:20 AM - 11:50 AM" },
+    { "date": "2026-09-22", "day": "Tuesday",   "course_code": "ENG 0002", "course_title": "English Fundamentals", "time": "10:20 AM - 11:50 AM" },
+    { "date": "2026-09-24", "day": "Thursday",  "course_code": "PHY 1151", "course_title": "Basic Physics", "time": "10:20 AM - 11:50 AM" },
+    { "date": "2026-09-28", "day": "Monday",    "course_code": "MAT 1141", "course_title": "Differential and Integral Calculus", "time": "10:20 AM - 11:50 AM" }
   ]
 }
